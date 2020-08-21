@@ -1,1 +1,1 @@
-# Ayush-Pawar0593
+print("50")
